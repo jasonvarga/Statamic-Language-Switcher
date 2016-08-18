@@ -30,5 +30,3 @@ Open copy the `LangSwitch` folder to your `site/addons` folder on your v2.x site
 Currently (2016-08-18 Statamic v2.1.2) there are some bugs with localisation of entries. It sort of works, but also fails if not 'all ticks are set'.
 
 Test extensively and the use is for your own risk!
-
-Because there are no API functions available for some of the things we need in this scenario, I used non-API functions... These can change without notice on updates... Hope we can rewrite this if these functions will be added to the core API.
